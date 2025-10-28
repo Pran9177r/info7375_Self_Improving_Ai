@@ -1,0 +1,44 @@
+# TinyZero FINAL Config - Stable Version
+
+model:
+  name: "Qwen/Qwen2.5-1.5B-Instruct"
+  ref_model: "Qwen/Qwen2.5-1.5B-Instruct"
+  max_length: 128
+  sft_max_length: 256
+  device: "cuda"
+
+apo:
+  beta: 0.5
+  v_star_samples: 5
+  learning_rate: 0.0000005        # 1e-6
+  batch_size: 2
+  gradient_accumulation_steps: 8
+  kl_coef: 0.02
+  use_exp_weights: false         # Use normalized advantages
+  adv_clip: 3.0
+  clip_grad_norm: 1.0
+  weighting_scheme: "normalized_advantage"  # ← New parameter!
+  log_intermediate_values: false  # Set to true for debugging
+
+sampling:
+  temperature: 0.8
+  top_p: 0.9
+  top_k: 0
+
+training:
+  num_epochs: 1
+  max_steps: 150
+  eval_every: 25
+  save_every: 50
+
+data:
+  train_size: 400
+  eval_size: 50
+  tasks:
+    - "multiplication"
+
+logging:
+  use_wandb: false
+  log_every: 5
+
+seed: 42
