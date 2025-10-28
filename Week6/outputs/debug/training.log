@@ -1,0 +1,134 @@
+[2025-10-25 16:51:39] Starting training...
+[2025-10-25 16:51:39] Config: {'model': {'name': 'Qwen/Qwen2.5-0.5B-Instruct', 'ref_model': 'Qwen/Qwen2.5-0.5B-Instruct', 'max_length': 256, 'device': 'cpu'}, 'apo': {'beta': 0.01, 'v_star_samples': 10, 'learning_rate': 5e-07, 'batch_size': 1, 'gradient_accumulation_steps': 4}, 'training': {'num_epochs': 1, 'max_steps': 50, 'eval_every': 20, 'save_every': 20, 'warmup_steps': 10}, 'data': {'train_size': 100, 'eval_size': 20, 'tasks': ['multiplication']}, 'logging': {'use_wandb': False, 'log_every': 5, 'project_name': 'tinyzero'}, 'compute': {'gpu_budget': 30, 'mixed_precision': False}, 'seed': 42}
+[2025-10-25 16:51:39] Running initial evaluation...
+[2025-10-25 16:54:11] Starting training...
+[2025-10-25 16:54:11] Config: {'model': {'name': 'Qwen/Qwen2.5-0.5B-Instruct', 'ref_model': 'Qwen/Qwen2.5-0.5B-Instruct', 'max_length': 256, 'device': 'cpu'}, 'apo': {'beta': 0.01, 'v_star_samples': 10, 'learning_rate': 5e-07, 'batch_size': 1, 'gradient_accumulation_steps': 4}, 'training': {'num_epochs': 1, 'max_steps': 50, 'eval_every': 20, 'save_every': 20, 'warmup_steps': 10}, 'data': {'train_size': 100, 'eval_size': 20, 'tasks': ['multiplication']}, 'logging': {'use_wandb': False, 'log_every': 5, 'project_name': 'tinyzero'}, 'compute': {'gpu_budget': 30, 'mixed_precision': False}, 'seed': 42}
+[2025-10-25 16:54:11] Running initial evaluation...
+[2025-10-25 16:54:11] Initial accuracy: 0.00%
+[2025-10-25 16:54:11] 
+============================================================
+[2025-10-25 16:54:11] Starting Epoch 1/1
+[2025-10-25 16:54:11] ============================================================
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] Error in training step: Placeholder storage has not been allocated on MPS device!
+[2025-10-25 16:54:11] 
+============================================================
+[2025-10-25 16:54:11] Running final evaluation...
+[2025-10-25 16:54:11] 
+============================================================
+[2025-10-25 16:54:11] TRAINING COMPLETE!
+[2025-10-25 16:54:11] Initial accuracy: 0.00%
+[2025-10-25 16:54:11] Final accuracy: 0.00%
+[2025-10-25 16:54:11] Best accuracy: 0.00%
+[2025-10-25 16:54:11] Improvement: 0.00%
+[2025-10-25 16:54:11] ============================================================
+[2025-10-25 16:56:49] Starting training...
+[2025-10-25 16:56:49] Config: {'model': {'name': 'Qwen/Qwen2.5-0.5B-Instruct', 'ref_model': 'Qwen/Qwen2.5-0.5B-Instruct', 'max_length': 256, 'device': 'cpu'}, 'apo': {'beta': 0.01, 'v_star_samples': 10, 'learning_rate': 5e-07, 'batch_size': 1, 'gradient_accumulation_steps': 4}, 'training': {'num_epochs': 1, 'max_steps': 50, 'eval_every': 20, 'save_every': 20, 'warmup_steps': 10}, 'data': {'train_size': 100, 'eval_size': 20, 'tasks': ['multiplication']}, 'logging': {'use_wandb': False, 'log_every': 5, 'project_name': 'tinyzero'}, 'compute': {'gpu_budget': 30, 'mixed_precision': False}, 'seed': 42}
+[2025-10-25 16:56:49] Running initial evaluation...
+[2025-10-25 17:03:45] Initial accuracy: 0.00%
+[2025-10-25 17:03:45] 
+============================================================
+[2025-10-25 17:03:45] Starting Epoch 1/1
+[2025-10-25 17:03:45] ============================================================
+[2025-10-25 17:06:00] Error in training step: 'answer'
+[2025-10-25 17:08:28] Error in training step: 'answer'
+[2025-10-25 17:10:34] Error in training step: 'answer'
+[2025-10-25 17:12:51] Error in training step: 'answer'
