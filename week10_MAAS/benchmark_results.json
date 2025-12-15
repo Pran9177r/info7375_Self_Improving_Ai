@@ -1,0 +1,93 @@
+[
+    {
+        "question": "James was looking for a good place to buy farmland.  Where might he look?\nA. midwest\nB. countryside\nC. estate\nD. farming areas\nE. illinois\nAnswer:",
+        "right_answer": "A",
+        "model_output": "D",
+        "extracted_output": "D",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "James was looking for a good place to buy farmland.  Where might he look?\nA. midwest\nB. countryside\nC. estate\nD. farming areas\nE. illinois\nAnswer:",
+        "right_answer": "A",
+        "model_output": "D",
+        "extracted_output": "D",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "What do people typically do while playing guitar?\nA. cry\nB. hear sounds\nC. singing\nD. arthritis\nE. making music\nAnswer:",
+        "right_answer": "C",
+        "model_output": "E",
+        "extracted_output": "E",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "What would vinyl be an odd thing to replace?\nA. pants\nB. record albums\nC. record store\nD. cheese\nE. wallpaper\nAnswer:",
+        "right_answer": "E",
+        "model_output": "D",
+        "extracted_output": "D",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?\nA. indestructible\nB. durable\nC. undestroyable\nD. indestructible\nE. unbreakable\nAnswer:",
+        "right_answer": "D",
+        "model_output": "A",
+        "extracted_output": "A",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "She was always helping at the senior center, it brought her what?\nA. satisfaction\nB. heart\nC. feel better\nD. pay\nE. happiness\nAnswer:",
+        "right_answer": "E",
+        "model_output": "A",
+        "extracted_output": "A",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Where is a doormat likely to be in front of?\nA. facade\nB. front door\nC. doorway\nD. entrance porch\nE. hallway\nAnswer:",
+        "right_answer": "B",
+        "model_output": "B. front door",
+        "extracted_output": "D",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "What must someone do before they shop?\nA. get money\nB. have money\nC. bring cash\nD. go to market\nE. bring cash\nAnswer:",
+        "right_answer": "A",
+        "model_output": "B",
+        "extracted_output": "B",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Where would you go if you wanted to have fun with a few people?\nA. watching television\nB. good\nC. cinema\nD. friend's house\nE. fairgrounds\nAnswer:",
+        "right_answer": "D",
+        "model_output": "E",
+        "extracted_output": "E",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "If there is a place that is hot and arid, what could it be?\nA. bland\nB. lifeless\nC. sandy\nD. neutral\nE. freezing\nAnswer:",
+        "right_answer": "B",
+        "model_output": "C",
+        "extracted_output": "C",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "Crabs live in what sort of environment?\nA. maritime\nB. bodies of water\nC. saltwater\nD. galapagos\nE. fish market\nAnswer:",
+        "right_answer": "C",
+        "model_output": "A",
+        "extracted_output": "A",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "What could committing murder prevent someone from doing?\nA. go to jail\nB. cry\nC. find god\nD. guilty conscience\nE. problems\nAnswer:",
+        "right_answer": "C",
+        "model_output": "E",
+        "extracted_output": "E",
+        "extract_answer_code": "None"
+    },
+    {
+        "question": "If you're remembering something, it's because of your what of it to begin with?\nA. knowledge\nB. knowing\nC. forgetful\nD. pleasure\nE. depression\nAnswer:",
+        "right_answer": "B",
+        "model_output": "A",
+        "extracted_output": "A",
+        "extract_answer_code": "None"
+    }
+]
